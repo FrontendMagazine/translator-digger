@@ -43,11 +43,16 @@
 - 需要译者数量；
 - 优势与机遇。
 
-
 ## 其他
 
 - 排版参考：[掘金译文排版规则指北](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
 
-## 关注前端外刊评论公众号
+## 联系外刊君
 
-![前端外刊评论公众号](./images/qrcode_for_fm.jpg)
+- 关注外刊君公众号
+
+    ![前端外刊评论公众号](./images/qrcode_for_fm.jpg)
+
+
+- 添加外刊君微信 island205；
+- 发邮件到 island205@gmail.com 等。
